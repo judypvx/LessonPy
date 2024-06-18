@@ -11,4 +11,4 @@ minutes = input("Введите число (количество минут): ")
 hours = int(minutes)//60
 rest = int(minutes)%60
 
-print(str(hours) + " часов(а) " + str(rest) +" минут.")
+print(str(hours) + " часов(а) " + str(rest) +" минут(ы).")
