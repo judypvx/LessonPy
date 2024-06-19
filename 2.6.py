@@ -16,9 +16,11 @@ print('Задача 6. Игра в кубики')
 number1 = int(input("Кубик клиента: "))
 number2 = int(input("Кубик владельца: "))
 
+
 if number1 >= number2:
     print(number1 - number2)
     print("Игрок платит")
+
 
 else:
     print(number1 + number2)
