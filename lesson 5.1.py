@@ -9,3 +9,4 @@ for numbers in range(1,11):
    if funks % 2 == 0 and funks >= 0:
       counter = counter + 1
 print(counter)
+
