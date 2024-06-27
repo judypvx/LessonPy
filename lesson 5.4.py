@@ -22,3 +22,7 @@ if goood>exelent and goood>normal:
     print(goood, "Хорошистов")
 if normal>exelent and normal>goood:
     print(normal, "Троечников")
+
+
+
+
