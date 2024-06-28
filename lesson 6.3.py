@@ -14,3 +14,17 @@
 # ⦁	Задайте время до обнуления таймера.
 # ⦁	Используйте цикл for.
 # ⦁	На каждой итерации задавайте персонажу вопрос, хочет ли он сейчас остановить разогрев или нет.
+
+
+
+reverse_timer = int(input('Enter a number of time in seconds: '))
+command = None
+
+for cooking_time in range(reverse_timer, 0, -1):
+    print(cooking_time, "секунд")
+    command = input('Enter a command ( 1 - stop | 0 - continue ): ')
+    if command == '1':
+        print(f"Ваша еда готова, можете забрать {cooking_time}")
+        break
+    if cooking_time == 1:
+        print('Ваша еда готова, осторожно горячo!')
