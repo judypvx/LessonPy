@@ -18,3 +18,12 @@
 # В точке −2 функция равна 9
 # Рекомендации
 # Функция range(start, stop) не включает границу stop, останавливается, не доходя до неё.
+
+
+start = int(input("Введите начало отрезка: "))
+finish = int(input("Введите конец отрезка: "))
+step = int(input("Enter step: "))
+
+for x in range(finish, start, step):
+    y = x**3 + 2*x**2 - 4*x +1
+    print(y)
