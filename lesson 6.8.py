@@ -20,3 +20,28 @@
 # Введите количество мальчиков: 100
 # Введите количество девочек: 1
 # Ответ: Нет решения
+
+
+boys = int(input("Введите количество мальчиков: "))
+girls = int(input("Введите количество девочек: "))
+
+if boys > girls * 2 or girls > boys * 2:
+    print("Нет решения")
+else:
+    result = ""
+
+    while boys > 0 or girls > 0:
+        if boys > 0:
+            result += 'B'
+            boys -= 1
+        if girls > 0:
+            result += 'G'
+            girls -= 1
+        if boys > 0 and girls < boys:
+            result += 'B'
+            boys -= 1
+        if girls > 0 and boys < girls:
+            result += 'G'
+            girls -= 1
+
+    print(result)
