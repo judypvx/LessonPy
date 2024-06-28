@@ -8,7 +8,8 @@
 # Используйте цикл for.
 
 
-
-
-
+month = 0
+for grechka in range(100,0, -4):
+    month += 1
+    print(grechka - 4, f"Кг гречки через {month} месяц")
 
