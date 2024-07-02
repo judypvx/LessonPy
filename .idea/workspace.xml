@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8487645-b5b2-41ca-a3dc-d3d8dd2732af" name="Changes" comment="lesson 7.12">
-      <change afterPath="$PROJECT_DIR$/lesson 7.13.py" afterDir="false" />
+    <list default="true" id="c8487645-b5b2-41ca-a3dc-d3d8dd2732af" name="Changes" comment="lesson 7.13">
+      <change afterPath="$PROJECT_DIR$/lesson 7.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,8 @@
     "Python.lesson 7.10.executor": "Run",
     "Python.lesson 7.11.executor": "Run",
     "Python.lesson 7.12.executor": "Run",
+    "Python.lesson 7.13.executor": "Run",
+    "Python.lesson 7.14.executor": "Run",
     "Python.lesson 7.2.executor": "Run",
     "Python.lesson 7.3.executor": "Run",
     "Python.lesson 7.4.executor": "Run",
@@ -87,7 +90,7 @@
       <workItem from="1718710852838" duration="31000" />
       <workItem from="1718711091575" duration="153000" />
       <workItem from="1719824794222" duration="7446000" />
-      <workItem from="1719922920167" duration="4787000" />
+      <workItem from="1719922920167" duration="6823000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 7.1">
       <option name="closed" value="true" />
@@ -185,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719927679866</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson 7.13">
+      <option name="closed" value="true" />
+      <created>1719928290279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719928290279</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,9 +215,11 @@
     <MESSAGE value="lesson 7.10" />
     <MESSAGE value="lesson 7.11" />
     <MESSAGE value="lesson 7.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.12" />
+    <MESSAGE value="lesson 7.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_13.coverage" NAME="lesson 7.13 Coverage Results" MODIFIED="1719928270410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_10.coverage" NAME="lesson 7.10 Coverage Results" MODIFIED="1719925109004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_3.coverage" NAME="lesson 7.3 Coverage Results" MODIFIED="1719847931554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_1.coverage" NAME="lesson 7.1 Coverage Results" MODIFIED="1719842626128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -219,5 +232,6 @@
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_11.coverage" NAME="lesson 7.11 Coverage Results" MODIFIED="1719925946909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_4.coverage" NAME="lesson 7.4 Coverage Results" MODIFIED="1719848152366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_7.coverage" NAME="lesson 7.7 Coverage Results" MODIFIED="1719850812934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_14.coverage" NAME="lesson 7.14 Coverage Results" MODIFIED="1719929283021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
