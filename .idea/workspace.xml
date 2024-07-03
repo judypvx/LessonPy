@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8487645-b5b2-41ca-a3dc-d3d8dd2732af" name="Changes" comment="lesson 7.15">
-      <change afterPath="$PROJECT_DIR$/lessson 7.16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c8487645-b5b2-41ca-a3dc-d3d8dd2732af" name="Changes" comment="lesson 7.16">
+      <change afterPath="$PROJECT_DIR$/lesson 8.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1718711091575" duration="153000" />
       <workItem from="1719824794222" duration="7446000" />
       <workItem from="1719922920167" duration="11921000" />
-      <workItem from="1720002139025" duration="1465000" />
+      <workItem from="1720002139025" duration="2345000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 7.1">
       <option name="closed" value="true" />
@@ -215,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719934353956</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson 7.16">
+      <option name="closed" value="true" />
+      <created>1720003872390</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720003872390</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +244,8 @@
     <MESSAGE value="lesson 7.13" />
     <MESSAGE value="lesson 7.14" />
     <MESSAGE value="lesson 7.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.15" />
+    <MESSAGE value="lesson 7.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.16" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lesson_1$lesson_7_13.coverage" NAME="lesson 7.13 Coverage Results" MODIFIED="1719928270410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
